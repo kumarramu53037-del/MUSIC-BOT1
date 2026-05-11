@@ -1,0 +1,21 @@
+# =========================================
+# requirements.txt
+# =========================================
+
+pyrogram
+tgcrypto
+pytgcalls
+yt-dlp
+youtube-search
+python-dotenv
+pymongo
+redis
+psutil
+aiohttp
+requests
+motor
+dnspython
+ffmpeg-python
+numpy
+pillow
+asyncio
